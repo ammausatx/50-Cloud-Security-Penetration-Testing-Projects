@@ -88,3 +88,6 @@ Capture sanitized trail/sink/diagnostic-setting metadata, sample harmless events
 ## Cleanup
 
 No settings are changed. If a harmless lab event was generated, retain or delete it according to the lab evidence policy.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/10-03-remediation.svg)

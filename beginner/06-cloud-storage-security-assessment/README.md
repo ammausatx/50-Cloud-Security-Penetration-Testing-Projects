@@ -120,3 +120,6 @@ Keep timestamped configuration exports privately. Redact account IDs, bucket nam
 ## Cleanup
 
 No configuration changes are required. If you created a lab bucket, remove only your synthetic test object and bucket after verifying it contains no needed evidence.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/06-03-remediation.svg)

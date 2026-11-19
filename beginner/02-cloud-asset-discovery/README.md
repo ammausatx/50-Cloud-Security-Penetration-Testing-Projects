@@ -86,3 +86,6 @@ No cloud resources are created or modified by the documented commands. Remove te
 - [AWS Security documentation](https://docs.aws.amazon.com/security/)
 - [Microsoft cloud security documentation](https://learn.microsoft.com/azure/security/)
 - [Google Cloud security documentation](https://cloud.google.com/security)
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/02-03-remediation.svg)

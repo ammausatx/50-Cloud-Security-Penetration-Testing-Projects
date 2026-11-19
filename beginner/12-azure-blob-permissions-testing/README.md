@@ -58,3 +58,6 @@ The result should separate account-level anonymous-access allowance, container-l
 
 ## Evidence and cleanup
 Retain sanitized settings and role assignments. Never expose SAS tokens, account keys, connection strings, tenant user lists, or customer object names. No configuration changes are made.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/12-03-remediation.svg)

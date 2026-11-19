@@ -92,3 +92,6 @@ Store diagrams with version/date, sanitized route and subnet exports, scope note
 ## Cleanup
 
 No cloud resources or network settings are modified.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/09-03-remediation.svg)

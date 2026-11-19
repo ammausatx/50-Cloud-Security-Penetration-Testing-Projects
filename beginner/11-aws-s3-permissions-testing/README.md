@@ -60,3 +60,6 @@ A defensible result distinguishes public policy statements, ACL grants, account 
 
 ## Evidence and cleanup
 Save sanitized policy JSON and configuration output privately. Never commit access keys, account-specific ARNs, real object names, or customer data. No changes are made by this exercise.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/11-03-remediation.svg)

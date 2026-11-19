@@ -60,3 +60,6 @@ Use customer-managed keys when required by risk or regulation, separate key admi
 
 ## Evidence and cleanup
 Save sanitized metadata and policy excerpts only. Never commit secrets, key material, access tokens, or sensitive resource identifiers. No key operations or configuration changes are performed.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/14-03-remediation.svg)

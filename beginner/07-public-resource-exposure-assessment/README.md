@@ -85,3 +85,6 @@ Save sanitized inventory output, approved-scope references, diagrams, and config
 ## Cleanup
 
 This is a read-only review. No cloud resources are created or changed.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/07-03-remediation.svg)

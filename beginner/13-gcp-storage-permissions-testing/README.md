@@ -61,3 +61,6 @@ A complete review considers bucket IAM, project/folder/organization inheritance,
 
 ## Evidence and cleanup
 Store sanitized IAM policy and bucket metadata privately. Never publish object names, principal emails, project identifiers, or key material. No settings are changed.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/13-03-remediation.svg)

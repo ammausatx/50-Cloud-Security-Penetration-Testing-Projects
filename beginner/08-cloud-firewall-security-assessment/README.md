@@ -85,3 +85,6 @@ Retain sanitized rule exports, effective-rule screenshots, network diagrams, and
 ## Cleanup
 
 No changes are made in this exercise. Submit proposed changes to the cloud/network owner for separate approval.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/08-03-remediation.svg)

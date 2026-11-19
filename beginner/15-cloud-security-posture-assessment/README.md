@@ -73,3 +73,6 @@ Assign accountable owners, track fixes to closure, automate drift detection, imp
 
 ## Evidence and cleanup
 Retain sanitized exports, tool versions, benchmark references, and validation notes. Keep raw account data private. This project is read-only; follow approved cleanup procedures for any local reports.
+
+
+![Simulated remediation and validation — training illustration](../../_assets/screenshots/15-03-remediation.svg)
