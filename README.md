@@ -24,11 +24,11 @@ A practical, multi-cloud learning portfolio covering **Amazon Web Services (AWS)
 08. [Cloud Security Group and Firewall Assessment — AWS / Azure / GCP](beginner/08-cloud-firewall-security-assessment/README.md)
 09. [Cloud Network Architecture Review — AWS / Azure / GCP](beginner/09-cloud-network-architecture-review/README.md)
 10. [Cloud Logging and Audit Configuration Assessment — AWS / Azure / GCP](beginner/10-cloud-logging-audit-assessment/README.md)
-11. AWS S3 Bucket Permissions Testing — AWS
-12. Azure Blob Storage Permissions Testing — Azure
-13. GCP Cloud Storage Permissions Testing — GCP
-14. Cloud Encryption and Key Management Review — AWS / Azure / GCP
-15. Cloud Security Posture Assessment — AWS / Azure / GCP
+11. [AWS S3 Bucket Permissions Testing — AWS](beginner/11-aws-s3-permissions-testing/README.md)
+12. [Azure Blob Storage Permissions Testing — Azure](beginner/12-azure-blob-permissions-testing/README.md)
+13. [GCP Cloud Storage Permissions Testing — GCP](beginner/13-gcp-storage-permissions-testing/README.md)
+14. [Cloud Encryption and Key Management Review — AWS / Azure / GCP](beginner/14-cloud-encryption-key-management-review/README.md)
+15. [Cloud Security Posture Assessment — AWS / Azure / GCP](beginner/15-cloud-security-posture-assessment/README.md)
 
 ## Intermediate projects
 
