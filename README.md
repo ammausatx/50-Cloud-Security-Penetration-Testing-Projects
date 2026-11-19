@@ -19,11 +19,11 @@ A practical, multi-cloud learning portfolio covering **Amazon Web Services (AWS)
 03. [AWS IAM User and Role Security Assessment — AWS](beginner/03-aws-iam-security-assessment/README.md)
 04. [Azure Entra ID Identity Security Assessment — Azure](beginner/04-azure-entra-id-security-assessment/README.md)
 05. [GCP IAM Roles and Permissions Assessment — GCP](beginner/05-gcp-iam-security-assessment/README.md)
-06. Cloud Storage Bucket Security Assessment — AWS / Azure / GCP
-07. Public Cloud Resource Exposure Assessment — AWS / Azure / GCP
-08. Cloud Security Group and Firewall Assessment — AWS / Azure / GCP
-09. Cloud Network Architecture Review — AWS / Azure / GCP
-10. Cloud Logging and Audit Configuration — AWS / Azure / GCP
+06. [Cloud Storage Security Assessment — AWS / Azure / GCP](beginner/06-cloud-storage-security-assessment/README.md)
+07. [Public Cloud Resource Exposure Assessment — AWS / Azure / GCP](beginner/07-public-resource-exposure-assessment/README.md)
+08. [Cloud Security Group and Firewall Assessment — AWS / Azure / GCP](beginner/08-cloud-firewall-security-assessment/README.md)
+09. [Cloud Network Architecture Review — AWS / Azure / GCP](beginner/09-cloud-network-architecture-review/README.md)
+10. [Cloud Logging and Audit Configuration Assessment — AWS / Azure / GCP](beginner/10-cloud-logging-audit-assessment/README.md)
 11. AWS S3 Bucket Permissions Testing — AWS
 12. Azure Blob Storage Permissions Testing — Azure
 13. GCP Cloud Storage Permissions Testing — GCP
